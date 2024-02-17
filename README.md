@@ -1,4 +1,4 @@
-👩‍💻 Hello World! I'm [Name], a passionate software engineer on a mission to make a positive impact through code.
+👩‍💻 Hello World! I'm [Naomi], a passionate software engineer on a mission to make a positive impact through code.
 
 🌟 About Me:
 - 💻 Full-stack developer with expertise in JavaScript (Node.js, React.js), Python (Django), and SQL.
